@@ -1,10 +1,9 @@
-# szutic-site-fe
+# scu-tongxin
 
-> Official website frontend of Tencent innovation Club, Shenzhen University
+> Official website frontend of Tongxin Club of Shenzhen University
 \
-> 深圳大学腾讯创新俱乐部官网前端
+> 四川大学同心社官网前端
 
-[深大腾创官网](http://www.szutic.club)
 
 ## 操作指南
 
